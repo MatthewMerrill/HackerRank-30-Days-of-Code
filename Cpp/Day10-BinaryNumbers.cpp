@@ -8,7 +8,6 @@ using namespace std;
 // https://www.hackerrank.com/contests/30-days-of-code/challenges/day-10-binary-numbers/submissions/code/4671541
 
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
     
     int t;
     cin >> t;
